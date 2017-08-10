@@ -9,6 +9,8 @@ public class Test12 {
 		System.out.println("c = " + c);
 		System.out.println("c = " + b);
 		System.out.println("c = " + f);
+		
+		
 	}
 
 	public static void main(String[] args) {
